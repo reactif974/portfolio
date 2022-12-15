@@ -1,8 +1,9 @@
 body {
   margin:0;
   padding:0;
-  background-color: #242424;
+  background-color:#121212;
   font-size: 16px;
+  color: white;
 }
 html {
   box-sizing: border-box;
