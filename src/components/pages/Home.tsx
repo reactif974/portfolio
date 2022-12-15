@@ -31,7 +31,6 @@ const HomeStyled = styled.div<Props>`
     height:120px;
     justify-content: space-between;
     align-items: center;
-    background-color:blue;
     padding-right: 20px;
     .logo {
       padding-left:20px;
