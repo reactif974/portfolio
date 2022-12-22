@@ -1,7 +1,7 @@
 body {
   margin:0;
   padding:0;
-  background-color:#121212;
+  background: -webkit-linear-gradient(top, rgb(42, 35, 86) 0%, rgb(4, 4, 8) 100%), -webkit-linear-gradient(top, rgba(42, 35, 86, 0) 0%, rgb(13, 17, 28) 100%);
   font-size: 16px;
   color: white;
 }
